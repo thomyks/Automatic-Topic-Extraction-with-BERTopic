@@ -24,6 +24,7 @@ This project follows a **six-step process** to ensure topic knowledge extraction
    - **Methods**: Sentence-transformers, UMAP, HDBSCAN, K-Means, KeyBERT  
    - **Output**: Structured topic clusters  
    - **Key Characteristics**: 
+     - Step One (HBDSCAN) + Step Two (K-means)
      - Fast and scalable for large datasets
      - Effectively handles outliers and tough-to-classify data points
 
@@ -43,9 +44,9 @@ This project follows a **six-step process** to ensure topic knowledge extraction
      - Merges Sbtopics into broader Topics and Topic to Supertopics
      - Organizes topics into a multi-level hierarchy to allow multi-granular topic access
 
-### 4. **Label: Hierarchical Labels for All Levels**  
-   - **Input**: Topic clusters, labels, and documents  
-   - **Methods**: LLMs (Llama, GPT-4)  
+### 4. **Label: Hierarchical Labels for Level Two and Level Three**  
+   - **Input**: Topic labels from Step One and Step Two  
+   - **Methods**: LLMs (Llama-70B)  
    - **Output**: Short, meaningful descriptions for each level of the hierarchy  
    - **Key Characteristics**: 
      - Ensures consistency in labels across all hierarchical levels
