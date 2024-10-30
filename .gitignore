@@ -1,0 +1,47 @@
+
+1. Two-Step Clustering (Discover)/First Step (HDBSCAN)/First_Step_BERTopic_first_step.pkl
+1. Two-Step Clustering (Discover)/First Step (HDBSCAN)/BERTopic_first_step.pkl
+1. Two-Step Clustering (Discover)/First Step (HDBSCAN)/.ipynb_checkpoints/First_Step_BERTopic_result-checkpoint.csv
+1. Two-Step Clustering (Discover)/First Step (HDBSCAN)/First_Step_BERTopic_result.csv
+1. Two-Step Clustering (Discover)/First Step (HDBSCAN)/First_step_outliers.csv
+1. Two-Step Clustering (Discover)/Second Step (K-means)/Second_step_clustering_BERTopic_results.csv
+1. Two-Step Clustering (Discover)/Second Step (K-means)/Second_step_BERTopic.pkl
+1. Two-Step Clustering (Discover)/Second Step (K-means)/First_step_outliers.csv
+4. Evaluation (Evaluate) /Third Level /Second_Step_BERTopic_results.csv
+4. Evaluation (Evaluate) /Third Level /Merged_First_Step_BERTopic_Result.csv
+4. Evaluation (Evaluate) /Third Level /Merged_Second_Step_BERTopic_Result.csv
+4. Evaluation (Evaluate) /Third Level /First_Step_BERTopic_result-Copy1.csv
+4. Evaluation (Evaluate) /Third Level /.ipynb_checkpoints/Second_Step_BERTopic_results-checkpoint.csv
+4. Evaluation (Evaluate) /Third Level /First_Step_BERTopic_result_merged.csv
+4. Evaluation (Evaluate) /Third Level /First_Step_BERTopic_result.csv
+4. Evaluation (Evaluate) /Third Level /Concatenated_First_Second_Step_BERTopic_Result.csv
+4. Evaluation (Evaluate) /Second Level/Second_Step_BERTopic_results.csv
+4. Evaluation (Evaluate) /Second Level/Merged_First_Step_BERTopic_Result.csv
+4. Evaluation (Evaluate) /Second Level/Merged_Second_Step_BERTopic_Result.csv
+4. Evaluation (Evaluate) /Second Level/.ipynb_checkpoints/First_Step_BERTopic_result-checkpoint.csv
+4. Evaluation (Evaluate) /Second Level/First_Step_BERTopic_result.csv
+4. Evaluation (Evaluate) /Second Level/Concatenated_First_Second_Step_BERTopic_Result.csv
+4. Evaluation (Evaluate) /First Level (Topic Clusters from Step One and Step Two)/Second_Step_BERTopic_results.csv
+4. Evaluation (Evaluate) /First Level (Topic Clusters from Step One and Step Two)/.ipynb_checkpoints/First_Step_BERTopic_result-checkpoint.csv
+4. Evaluation (Evaluate) /First Level (Topic Clusters from Step One and Step Two)/.ipynb_checkpoints/Second_Step_BERTopic_results-checkpoint.csv
+4. Evaluation (Evaluate) /First Level (Topic Clusters from Step One and Step Two)/First_Step_BERTopic_result.csv
+.git/objects/60/26115d0ec86ba3dc840f39d8838879f76081ce
+.git/objects/a2/1945e8f52a90c622af1117d35d7f5dda097149
+.git/objects/4e/8a92c37a093de10604e7ec007bd117237dd0a8
+.git/objects/pack/pack-cfd7533b1f131763aa8c14253dba523288f9cc5e.pack
+.git/objects/db/c0aa56c187fb7dde4ada3d8c6cea8fa785c14e
+.git/objects/1d/5e4d08e52208f97a55618f630403ca2aa02b9d
+5. Visualisation (Visualise)/DataMapPlot/Step Two/Second_step_clustering_BERTopic_results.csv
+5. Visualisation (Visualise)/DataMapPlot/Step Two/Second_Step_BERTopic_result_merged.csv
+5. Visualisation (Visualise)/DataMapPlot/Step Two/.ipynb_checkpoints/Second_step_clustering_BERTopic_results-checkpoint.csv
+5. Visualisation (Visualise)/DataMapPlot/Step One/.ipynb_checkpoints/First_Step_BERTopic_result-checkpoint.csv
+5. Visualisation (Visualise)/DataMapPlot/Step One/First_Step_BERTopic_result_merged.csv
+5. Visualisation (Visualise)/DataMapPlot/Step One/First_Step_BERTopic_result.csv
+2. Automated Labelling and Evaluation (Label and Evaluate)/Evaluation Matrix/GPT-40/First Step/First_Step_BERTopic_result.csv
+2. Automated Labelling and Evaluation (Label and Evaluate)/Evaluation Matrix/GPT-40/Second Step /Second_step_clustering_BERTopic_results.csv
+2. Automated Labelling and Evaluation (Label and Evaluate)/Evaluation Matrix/GPT-40/Second Step /.ipynb_checkpoints/Second_step_clustering_BERTopic_results-checkpoint.csv
+2. Automated Labelling and Evaluation (Label and Evaluate)/Evaluation Matrix/LLAMA-70B/First Step/.ipynb_checkpoints/First_Step_BERTopic_result-checkpoint.csv
+2. Automated Labelling and Evaluation (Label and Evaluate)/Evaluation Matrix/LLAMA-70B/First Step/First_Step_BERTopic_result.csv
+2. Automated Labelling and Evaluation (Label and Evaluate)/Evaluation Matrix/LLAMA-70B/Second Step /Second_step_clustering_BERTopic_results-Copy1.csv
+2. Automated Labelling and Evaluation (Label and Evaluate)/Evaluation Matrix/LLAMA-70B/Second Step /.ipynb_checkpoints/Second_step_clustering_BERTopic_results-Copy1-checkpoint.csv
+
