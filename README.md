@@ -17,7 +17,14 @@ Welcome to **Automatic Topic Extraction with BERTopic**, a project designed to e
 
 ## 📚 Method Overview
 
-This project follows a **six-step process** to ensure topic knowledge extraction and interpretation:
+This project follows a **five-step process** to ensure topic knowledge extraction and interpretation:
+
+### 0. **Investigate: Topic Clusters Extraction**  
+   - **Input**: Text Corpus
+   - **Methods**: matplotlib
+   - **Output**: Descriptive Statistics 
+   - **Key Characteristics**: 
+     - Familiarize yourself with the dataset by exploring basic descriptive statistics
 
 ### 1. **Discover: Topic Clusters Extraction**  
    - **Input**: Text Corpus
@@ -35,23 +42,16 @@ This project follows a **six-step process** to ensure topic knowledge extraction
      - Utilizes advanced LLMs to generate descriptive and meaningful labels
      - Provides fast interpretation for large datasets
 
-### 3. **Classify: Three-Level Hierarchical Topic Structure**  
+### 3. **Classify: Three-Level Hierarchical Topic Structure with Labelling**  
    - **Input**: Topic labels from both Step One and Step Two  
-   - **Methods**: sentence-transformers, WARD method + LLMs  
-   - **Output**: Dendrogram with a Three-level Hierarchy of Topic Labels  
+   - **Methods**: sentence-transformers, WARD method + LLMs (Llama-70B)  
+   - **Output**: Dendrogram with a Three-level Hierarchy of Topic Labels + Short Labels On Each Hierarchical Level
    - **Key Characteristics**: 
      - Merges Subtopics into Topics and Topics into Supertopics
      - Multi-level hierarchy that allows Multi-Granular Topic Access
+     - Provides interpretation on different topic granularity
 
-### 4. **Label: Hierarchical Labels for Level Two and Level Three**  
-   - **Input**: Topic Labels from Step One and Step Two  
-   - **Methods**: LLMs (Llama-70B)  
-   - **Output**: Short, meaningful descriptions for each level of the hierarchy  
-   - **Key Characteristics**: 
-     - Ensures consistency in labels across all hierarchical levels
-     - Provides interpretation on the higher topic granularity
-
-### 5. **Evaluate Three-Level Hierarchical Topic Knowledge Evaluation and Automated Labeling**
+### 4. **Evaluate Three-Level Hierarchical Topic Knowledge Evaluation and Automated Labeling**
    - **Input**: Level One (Results from Step One and Step Two), Level Two, Level Three
    - **Methods**: Topic Coherence (c_v) and Topic Diversity for Three-Level Hierarchical Topic Knowledge, Cosine and Euclidean Similarity Matrices for Automated Labeling
    - **Output**: Evaluation metrics (scores between 0–1)  
@@ -59,7 +59,7 @@ This project follows a **six-step process** to ensure topic knowledge extraction
      - Quantifies coherence and diversity across different hierarchical levels
      - Measures consistency between LLM-generated topic cluster labels and topic centroids
 
-### 6. **Visualize: Explore Documents and Topics through Visualisation**  
+### 5. **Visualize: Explore Documents and Topics through Visualisation**  
    - **Input**: Results from Step One, Step Two, and Hierarchical Levels  
    - **Methods**: Wizmap, DataMapPlot, Sunburst Chart, Tree Map  
    - **Output**: Interactive visual representations of topic clusters and hierarchies  
