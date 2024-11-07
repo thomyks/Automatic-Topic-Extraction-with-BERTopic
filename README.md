@@ -9,7 +9,7 @@ Welcome to **Automatic Topic Extraction with BERTopic**, a project designed to e
 
 - **Two-Step Clustering**: Sequentially combines **HDBSCAN** and **K-Means** to improve topic extraction and outlier handling.
 - - **Human-Readable Labels**: Uses **LLMs** (GPT-4, Llama-70B) to generate descriptive, easy-to-interpret labels for each topic.
-- **Hierarchical Topic Structure**: Organizes topics into three levels of granularity, enabling clear and meaningful topic discovery.
+- **Hierarchical Topic Structure**: Organizes topics into three levels of granularity, enabling meaningful topic discovery in different topic granularity levels.
 - **Comprehensive Evaluation**: Evaluates the quality of extracted topics using **Topic Coherence (c_v)**, **Topic Diversity**, and **Cosine Similarity Matrices**.
 - **Visualization**: Offers multiple ways to visualize the extracted topics and hierarchies using **Wizmap**, **DataMapPlot**, **Sunburst Chart** and  **Tree Map**.
 
@@ -20,16 +20,15 @@ Welcome to **Automatic Topic Extraction with BERTopic**, a project designed to e
 This project follows a **six-step process** to ensure topic knowledge extraction and interpretation:
 
 ### 1. **Discover: Topic Clusters Extraction**  
-   - **Input**: Text corpus
-   - **Methods**: Sentence-transformers, UMAP, HDBSCAN, K-Means, KeyBERT  
-   - **Output**: Structured topic clusters  
+   - **Input**: Text Corpus
+   - **Methods**: Step One (sentence-transformers, UMAP, HBDSCAN, KeyBERT) Step Two (sentence-transformers, K-Means, KeyBERT)
+   - **Output**: Structured Topic Clusters  
    - **Key Characteristics**: 
-     - Step One (HBDSCAN) + Step Two (K-means)
      - Fast and scalable for large datasets
-     - Effectively handles outliers and tough-to-classify data points
+     - Effectively handles outliers 
 
 ### 2. **Label: Human-Readable Topic Labels Generation**  
-   - **Input**: Topic clusters, labels, KeyBERT-keywords and documents  
+   - **Input**: Topic Clusters, Naive Label (keywords-based), Keywords, Documents  
    - **Methods**: LLMs (GPT-40, Llama-70B)  
    - **Output**: Human-readable Topic Cluster Labels  
    - **Key Characteristics**: 
@@ -38,23 +37,23 @@ This project follows a **six-step process** to ensure topic knowledge extraction
 
 ### 3. **Classify: Three-Level Hierarchical Topic Structure**  
    - **Input**: Topic labels from both Step One and Step Two  
-   - **Methods**: WARD method + LLMs  
+   - **Methods**: sentence-transformers, WARD method + LLMs  
    - **Output**: Dendrogram with a Three-level Hierarchy of Topic Labels  
    - **Key Characteristics**: 
-     - Merges Sbtopics into broader Topics and Topic to Supertopics
-     - Organizes topics into a multi-level hierarchy to allow multi-granular topic access
+     - Merges Subtopics into Topics and Topics into Supertopics
+     - Multi-level hierarchy that allows Multi-Granular Topic Access
 
 ### 4. **Label: Hierarchical Labels for Level Two and Level Three**  
-   - **Input**: Topic labels from Step One and Step Two  
+   - **Input**: Topic Labels from Step One and Step Two  
    - **Methods**: LLMs (Llama-70B)  
    - **Output**: Short, meaningful descriptions for each level of the hierarchy  
    - **Key Characteristics**: 
      - Ensures consistency in labels across all hierarchical levels
-     - Provides easy-to-interpret, short descriptions
+     - Provides interpretation on the higher topic granularity
 
-### 5. **Evaluate: Three-Level Hierarchical Topic Knowledge Evaluation and Automated Labeling**
+### 5. **Evaluate Three-Level Hierarchical Topic Knowledge Evaluation and Automated Labeling**
    - **Input**: Level One (Results from Step One and Step Two), Level Two, Level Three
-   - **Methods**: Topic Coherence (c_v) and Topic Diversity for Three-Level Hierarchical Topic Knowledge, Cosine and Euclidean Similarity Matrices for Automated Labeling Evaluation
+   - **Methods**: Topic Coherence (c_v) and Topic Diversity for Three-Level Hierarchical Topic Knowledge, Cosine and Euclidean Similarity Matrices for Automated Labeling
    - **Output**: Evaluation metrics (scores between 0–1)  
    - **Key Characteristics**: 
      - Quantifies coherence and diversity across different hierarchical levels
@@ -65,7 +64,7 @@ This project follows a **six-step process** to ensure topic knowledge extraction
    - **Methods**: Wizmap, DataMapPlot, Sunburst Chart, Tree Map  
    - **Output**: Interactive visual representations of topic clusters and hierarchies  
    - **Key Characteristics**:
-     - **Wizmap**: Interactive visualization of document embeddings allows you to zoom in on a specific document.
+     - **Wizmap**: Interactive Visualization of Document Embeddings that Allows you to zoom in on a specific document.
      - **DataMapPlot**: Interactive visualization of document embeddings and topic clusters, offering an intuitive view of the data space.
      - **Sunburst Chart**: Circular, Three-level hierarchical Chart representing Subtopics, Topics and Supertopics, enabling easy navigation between broader topics and their more
      specific counterparts.
