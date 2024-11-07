@@ -1,0 +1,101 @@
+Third_Level_Topic_Label,Keywords,Coherence c_v
+AI and Data-Driven Approaches for Urban and Disaster Management,"['crisistransformers', 'webnews', 'crises', 'disasters', 'tweets', 'twitter', 'crisisfacts', 'microblogs', 'semantic', 'thematic']",0.29306551466275194
+Advanced Statistical and Machine Learning Methods,"['lasso', 'lassoglm', 'optimizations', 'optimizer', 'optimizers', 'penalized', 'penalizes', 'optimizes', 'regularization', 'penalize']",0.1462274503128631
+"Advanced Technologies for Simulation, Sensing, and Fabrication","['imaging', 'phases', 'microscopy', 'optics', 'photonics', 'nanobeamnn', 'optimizers', 'phase', 'microscope', 'reflectance']",0.22956213085342
+Advances in Sequence Modeling and Learning,"['learns', 'memorization', 'attentional', 'classifiers', 'perceptrons', 'attention', 'attentions', 'recognition', 'softmax', 'neural']",0.28350375596069355
+Adversarial Attacks and Vulnerabilities in AI and Machine Learning,"['adversarial', 'adversarially', 'dversarial', 'attackgnn', 'deepnet', 'attacks', 'imagenet', 'classifier', 'classifiers', 'badnet']",0.33027303611365977
+Aerial Robotics and Agricultural Computer Vision,"['fisheries', 'fishing', 'sportfishing', 'fish', 'overfishing', 'lure', 'wildlife', 'anglers', 'ecology', 'trawling']",0.6096775179357088
+Artificial Intelligence Applications and Implications,"['ais', 'automation', 'ai', 'hazards', 'cybersecurity', 'accidents', 'developments', 'automate', 'autonomous', 'safeguards']",0.300364955786877
+Artificial Intelligence and Cognitive Systems,"['ai', 'intelligences', 'tasking', 'intelligence', 'intelligibility', 'automation', 'sensemaking', 'automated', 'cognition', 'automate']",0.3644087370534192
+Artificial Intelligence and Machine Learning Hardware Acceleration and Optimization,"['software', 'dataflows', 'intel', 'implementations', 'applications', 'programmable', 'runtime', 'workflows', 'dataflow', 'features']",0.3165818684501508
+Artificial Intelligence and Machine Learning Interpretability and Explainability,"['supervised', 'classifiers', 'classifier', 'learns', 'classify', 'classifying', 'classification', 'datasets', 'ai', 'annotators']",0.5020210063714032
+Artificial Intelligence and Reasoning Systems,"['satisfiability', 'formalizations', 'logics', 'formalization', 'formalisation', 'formalized', 'formalizing', 'unsatisfiability', 'propositional', 'formalize']",0.1403837921272811
+Artificial Intelligence for Creative Content Generation,"['deepvision', 'videodrafter', 'videographer', 'sceneflow', 'videopoet', 'videos', 'videoscore', 'renderings', 'rendering', 'imagenetvid']",0.18904854838361648
+Artificial Intelligence in Creative Industries,"['musicological', 'musicology', 'genres', 'musicinstruct', 'musicxml', 'musicality', 'musics', 'musically', 'musictheorybench', 'musicgen']",0.19833552478289776
+Artificial Intelligence in Data Generation and Chemical Synthesis,"['datasets', 'gan', 'dataset', 'gans', 'adversarial', 'data', 'rnns', 'rnn', 'autoencoders', 'ehrs']",0.4373331274094105
+Artificial Intelligence in Education,"['enrolled', 'curriculum', 'students', 'curriculums', 'tutoring', 'student', 'study', 'tutors', 'tutorly', 'assessments']",0.43077906744367633
+Astrophysics and Astronomy Informatics,"['astroinformatics', 'astrophysical', 'cosmology', 'cosmological', 'cosmologies', 'galaxies', 'supernova', 'astrophysicists', 'subgalactic', 'cosmologically']",0.3072948226946976
+Audio Analysis for Health and Acoustic Applications,"['audiogram', 'recordings', 'audios', 'audio', 'microphone', 'soundspaces', 'acoustical', 'audiological', 'recording', 'voice']",0.26168582656580996
+Autonomous Systems and Safety Assessment,"['radar', 'radars', 'radarocc', 'autopilot', 'platooning', 'transmit', 'platoons', 'maneuvers', 'signalized', 'planning']",0.27200634945373503
+Business and Marketing Analytics,"['classifiers', 'classifier', 'classifying', 'keywords', 'classification', 'sentiment', 'classify', 'predictive', 'linguistic', 'categorization']",0.48109315751456627
+COVID-19 Research and Public Perception,"['epidemic', 'epidemics', 'outbreak', 'outbreaks', 'spreading', 'worm', 'pathogen', 'pathogens', 'virus', 'viral']",0.49012051216418745
+Causal Analysis and Reasoning,"['interventions', 'efficacy', 'effectiveness', 'analyses', 'interventional', 'interventionally', 'outcomes', 'intervention', 'procedures', 'modelling']",0.44020905480092926
+Complex Systems Analysis and Optimization,"['synchronization', 'lyapunov', 'synchronize', 'dynamics', 'chaotic', 'rhythms', 'chaos', 'oscillatory', 'bifurcation', 'deterministic']",0.3280361538916383
+Computational Biology and Chemistry,"['bioinformatics', 'genomics', 'multiomics', 'genomic', 'proteinengine', 'proteinlmdataset', 'transcriptomics', 'proteinworkshop', 'pathogens', 'transcriptomic']",0.2545143755649529
+Computational Methods in Evolutionary Analysis,"['linguistics', 'phonetic', 'linguists', 'protolanguage', 'linguistic', 'corpus', 'vocabularies', 'phonology', 'languages', 'lexicostatistics']",0.4371718087572275
+Computational Models of Complex Systems and Processes,"['computational', 'qmls', 'implementations', 'algorithms', 'quantumleak', 'computing', 'classification', 'qml', 'algorithmic', 'computationally']",0.3159119740228222
+Computer Vision,"['imagenet', 'cnns', 'cnn', 'recognizing', 'supervised', 'recognition', 'inception', 'features', 'autoencoders', 'classifiers']",0.4301840087947353
+Computer Vision and 3D Scene Understanding,"['posture', 'kinematic', 'pose', 'skeleton', 'poses', 'routines', 'kinematics', 'motions', 'joints', 'posing']",0.38894549895325914
+Conversational AI and Human-Computer Interaction,"['conversational', 'chatbots', 'conversations', 'dialogues', 'conversation', 'dialog', 'communicating', 'dialogue', 'discusses', 'chatbot']",0.6287732430125502
+Cybersecurity and Artificial Intelligence,"['adversarial', 'adversarially', 'classifiers', 'classifier', 'supervised', 'malware', 'classification', 'gans', 'evading', 'datasets']",0.5320094120745542
+Data Analysis and Pattern Discovery,"['clusterings', 'clusters', 'cluster', 'clustering', 'clusterability', 'clustered', 'pagerank', 'nodes', 'hierarchicalclustering', 'dbscan']",0.3953392315921359
+Data Analysis and Visualization,"['supervised', 'benchmarks', 'benchmark', 'classification', 'classifying', 'bandwidths', 'datasets', 'features', 'regularization', 'kernel']",0.35333999888207523
+Decision Making and Optimization under Uncertainty,"['banditq', 'bandit', 'reinforcement', 'strategies', 'bandits', 'strategic', 'strategy', 'optimizes', 'heuristics', 'strategically']",0.43633064323685405
+Deep Learning Applications in Engineering and Computer Vision,"['classifier', 'classifiers', 'inspection', 'classification', 'classifying', 'classify', 'inspections', 'recognition', 'svm', 'features']",0.47801179114256903
+Deep Learning Optimization and Security,"['cluster', 'clustering', 'clusterqat', 'clusters', 'classification', 'supervised', 'optimizer', 'classifier', 'imagenet', 'optimize']",0.3347263777346422
+Deep Learning Optimization and Training,"['backpropagation', 'gradients', 'tensorflow', 'classifiers', 'benchmarks', 'subgradients', 'trainability', 'optimisers', 'optimizers', 'classifier']",0.3501612134624632
+Deep Learning for Medical Imaging and Analysis,"['inceptionresnet', 'prostate', 'imagenet', 'segmentation', 'segmentations', 'cnn', 'deepmedic', 'cnns', 'segmental', 'imagen']",0.28141287765512285
+Design and Experimentation in Engineering,"['transistors', 'transistor', 'circuits', 'circuitnet', 'circuitgnn', 'circuitsynth', 'circuitry', 'circuitvae', 'electronics', 'semiconductor']",0.2887029972781273
+Diffusion Models for Generative Tasks,"['inversion', 'inverting', 'inverses', 'operators', 'inverse', 'implementations', 'invertibility', 'operator', 'inverted', 'normalization']",0.32315574120827495
+Edge Computing and Artificial Intelligence for IoT and Mobile Networks,"['qam', 'apsk', 'iot', 'qos', 'lte', 'sdn', 'qoe', 'wlan', 'bandwidth', 'qmix']",0.2820219638498801
+Entity Understanding and Semantic Knowledge Integration,"['ontologies', 'ontological', 'ontology', 'terminologies', 'ontologically', 'semantic', 'ontologizing', 'taxonomy', 'schemas', 'schema']",0.3284192302743782
+Environmental Modeling and Prediction using Advanced Computing and AI,"['forecaster', 'forecast', 'forecasts', 'forecasting', 'forecasters', 'weatherformer', 'meteorological', 'climateq', 'subseasonalclimateusa', 'predicting']",0.38057216206027356
+Explainable Artificial Intelligence,"['classifiers', 'classifier', 'classify', 'implementations', 'classifying', 'classification', 'rnns', 'learns', 'classifications', 'autoencoders']",0.3372475386381001
+Eye and Vision Research,"['deepeyenet', 'vision', 'retinaface', 'retina', 'eyeformer', 'macular', 'retinal', 'cnns', 'datasets', 'inception']",0.2539496147427446
+Fairness and Bias in Artificial Intelligence,"['classifiers', 'classifier', 'supervised', 'classifying', 'classification', 'discriminated', 'classify', 'categorise', 'categorizes', 'discriminating']",0.3757245980727836
+Fluid and Plasma Simulation and Modeling,"['turbulent', 'turbulence', 'aerodynamics', 'aerodynamic', 'flows', 'simulations', 'reynolds', 'simulators', 'flow', 'tensorflow']",0.41119669442956486
+Generative Modeling and Artificial Intelligence,"['gans', 'gan', 'projectedgan', 'generative', 'cyclegan', 'autoencoders', 'codegan', 'dcgan', 'asymmetricgan', 'imagenet']",0.40801563504601146
+Geometric and Equivariant Deep Learning,"['modeling', 'modelling', 'curvatures', 'learns', 'dynamics', 'models', 'surfaces', 'curvature', 'nonlinear', 'shapes']",0.36339524990181876
+Graph Representation Learning and Neural Networks,"['graphon', 'graphsage', 'graphssm', 'graphaware', 'graphs', 'graphbased', 'graphons', 'graphtrans', 'graphacl', 'graphrevoker']",0.13268311709418112
+Handling Missing or Inconsistent Data,"['imputations', 'missingness', 'imputation', 'datasets', 'fuzzy', 'criteria', 'attributes', 'classifiers', 'incompleteness', 'classifier']",0.26992354158079424
+Human Behavior Analysis with AI and Multimodal Data,"['activitynet', 'monitoring', 'sensor', 'iot', 'activity', 'automate', 'datasets', 'dataset', 'sensing', 'accelerometers']",0.34869145190391215
+Human Behavior and Emotion Analysis through Language and Interaction,"['features', 'affectnet', 'emotions', 'emotion', 'classifiers', 'svm', 'classifier', 'recognizing', 'classifying', 'affective']",0.4650339177525226
+Human Interaction with Emerging Technologies,"['automl', 'automate', 'automating', 'automated', 'workflows', 'automation', 'workflow', 'classification', 'functionality', 'requirements']",0.6373055740844035
+Humor and Sarcasm in Natural Language Processing,"['humordb', 'chatbots', 'utterances', 'humour', 'humor', 'dialogues', 'corpus', 'text', 'wordnet', 'ai']",0.2585011766782795
+Image and Video Processing,"['imaging', 'denoising', 'photography', 'photographs', 'bioimaging', 'upsampling', 'denoisers', 'bioimage', 'denoiser', 'reconstructing']",0.2002318122162765
+Industrial Automation and Control Systems,"['kalmannet', 'modelling', 'systems', 'predictability', 'models', 'adaptive', 'modeling', 'optimisers', 'uncertainties', 'adaptively']",0.26930996735186835
+Information Dynamics and Network Influence,"['cooperation', 'influence', 'strategies', 'communication', 'influencer', 'coordination', 'social', 'reciprocity', 'behaviors', 'dissemination']",0.4390060374608752
+Information Extraction,"['annotating', 'annotators', 'coreference', 'annotations', 'annotation', 'corpus', 'annotator', 'annotates', 'supervised', 'semantic']",0.5105383774171087
+Information Protection and Concealment,"['adversarial', 'voice', 'speech', 'attacks', 'spoofing', 'attacker', 'utterances', 'attack', 'adversary', 'spoof']",0.5101353496776474
+Information Retrieval and Knowledge Systems,"['retrievals', 'hashing', 'retrieval', 'keywords', 'cataloging', 'indexing', 'searches', 'pagerank', 'searcher', 'cataloguing']",0.32556140275140477
+Information Verification and Validation,"['tweets', 'hoaxpedia', 'newsguard', 'snopes', 'newsclaims', 'credibility', 'newsclippings', 'journalism', 'news', 'journalistic']",0.21619996200430416
+Innovations in Sustainable Technology and Food Systems,"['recipes', 'renewable', 'recipemc', 'recipedb', 'chef', 'recipe', 'sustainability', 'sustainable', 'cooking', 'ai']",0.3000179616644808
+Large Language Models,"['toolflow', 'toolkits', 'annotators', 'slots', 'annotations', 'annotating', 'languageprocessing', 'toolsets', 'codeptms', 'implementations']",0.40006399186013236
+Machine Learning Adaptation and Forgetting,"['learns', 'retraining', 'learnt', 'retrain', 'memorizer', 'relearning', 'memorization', 'learning', 'memorize', 'memorizing']",0.27285594255501155
+Machine Learning Ensembles and Multi-View Methods,"['classifiers', 'boosting', 'classifier', 'boost', 'treeshap', 'forest', 'forests', 'classification', 'ensembles', 'classifications']",0.44314199974610896
+Machine Learning Methodologies,"['classifier', 'activelab', 'classifiers', 'classification', 'datasets', 'supervised', 'boosting', 'classify', 'detects', 'dataset']",0.4433510792239913
+Machine Learning Reliability and Uncertainty,"['predicting', 'datamodels', 'forecasting', 'datasets', 'classifiers', 'prediction', 'regressions', 'classifier', 'forecasters', 'classification']",0.3001680441892889
+Machine Learning and Artificial Intelligence,"['compression', 'benchmarking', 'classifiers', 'benchmarks', 'datasets', 'optimisers', 'benchmark', 'compressed', 'classifier', 'classification']",0.3943259166523795
+Machine Learning and Blockchain for Security and Fraud Detection,"['classifiers', 'classifier', 'classification', 'classifying', 'classifications', 'classify', 'datasets', 'misclassifications', 'svm', 'misclassification']",0.5955719608142434
+Machine Learning and Data Privacy,"['implementations', 'oracles', 'protocols', 'procedures', 'datasets', 'implementation', 'algorithms', 'oracle', 'reproducibility', 'distributed']",0.32721846957651674
+Machine Learning and Data-Driven Applications,"['bioinformatics', 'patterns', 'spm', 'preprocessors', 'lifecycle', 'workflows', 'datasets', 'workflow', 'databases', 'dataset']",0.2923463336631507
+Machine Learning and Optimization,"['manifolds', 'manifold', 'supervised', 'metrics', 'clustering', 'geodesics', 'riemannian', 'metric', 'classification', 'clustertree']",0.5086992005913125
+Machine Learning for Dynamical Systems and Differential Equations,"['tensorflow', 'pinn', 'backpropagation', 'optimizers', 'pinns', 'nonlinear', 'rnns', 'dpinn', 'pinnsformer', 'simulation']",0.2691978756349693
+Medical Imaging and Reporting,"['fetal', 'supervised', 'mapping', 'inception', 'benchmarking', 'automate', 'cnn', 'fetus', 'pretraining', 'mapped']",0.25434315367947125
+Misbehavior and Toxicity in Online Content,"['tweets', 'abuseanalyzer', 'mitigation', 'keywords', 'classifier', 'mitigating', 'corpus', 'nlp', 'threats', 'svm']",0.4312995837340418
+Model and Data Distillation Techniques,"['learns', 'pretraining', 'curriculum', 'training', 'learners', 'distillation', 'learner', 'trained', 'learnt', 'datasets']",0.3556063798523736
+Multi-Agent Systems and Artificial Intelligence,"['robotics', 'cooperative', 'robot', 'cooperatively', 'robots', 'robotic', 'protocols', 'implementations', 'coordination', 'cooperation']",0.45902819665824557
+Multimodal Learning and Applications,"['electromyographic', 'exoskeletons', 'electromyography', 'neurorobotics', 'postures', 'gestures', 'posture', 'amputees', 'gesturing', 'gestureprint']",0.3662381447234958
+Multimodal Learning and Vision-Language Models,"['utterances', 'captioners', 'captioner', 'captioning', 'attention', 'attentional', 'speech', 'dialogues', 'verbalize', 'vocabularies']",0.24576446736689106
+Multimodal Person Identification,"['supervised', 'dataset', 'matching', 'datasets', 'pedestrian', 'cnn', 'retrieval', 'recognize', 'pedestrians', 'features']",0.29691685202061857
+Nanodevice Localization in Biological Systems,"['cardiovascular', 'cardiac', 'macrovascular', 'arterial', 'artery', 'arteries', 'coronary', 'bloodstream', 'vascular', 'diagnostics']",0.4144428414355229
+Natural Language Processing,"['corpus', 'lingual', 'multilinguals', 'linguistics', 'macrolanguage', 'lingua', 'linguistic', 'multilingual', 'bilingual', 'multilinguality']",0.30934338517937665
+Optimization and Decision Making in Complex Systems,"['auctioning', 'bidding', 'auction', 'bids', 'auctionsdecrease', 'auctions', 'auctioneer', 'auctionimpacts', 'bidders', 'advertisements']",0.5603626532936868
+Optimization and Design,"['optimisation', 'metaheuristics', 'automate', 'automating', 'programming', 'scheduling', 'optimizations', 'heuristics', 'workflows', 'automation']",0.38410502475417463
+Optimization and Management of Complex Systems,"['intercity', 'dispatching', 'transportation', 'shuttles', 'optimisers', 'autonomous', 'taxis', 'mobility', 'vehicles', 'automation']",0.390316108714989
+Particle Physics and Accelerator Technologies,"['bayesian', 'procedures', 'tutorials', 'probabilistic', 'implementations', 'routines', 'modelling', 'methodology', 'documentation', 'analyses']",0.23887301717827336
+Predictive Modeling and Forecasting,"['photovoltaics', 'photovoltaic', 'renewables', 'forecasting', 'renewable', 'forecaster', 'pv', 'forecast', 'forecasters', 'forecasts']",0.5024327679739782
+Probabilistic Machine Learning,"['clustering', 'cluster', 'algorithms', 'modelling', 'clusterability', 'algorithmic', 'modelled', 'clusters', 'classification', 'probabilistic']",0.33364869603785635
+Probabilistic Methods and Stochastic Processes,"['sampling', 'simulations', 'samples', 'algorithms', 'modeling', 'simulation', 'stochastic', 'samplers', 'mcmc', 'lmcs']",0.4188822972132808
+Recommender Systems and Personalization,"['functionality', 'features', 'autoencoders', 'datasets', 'softmax', 'autoencoder', 'svm', 'supervised', 'personalization', 'recommender']",0.2775753488750409
+Reinforcement Learning,"['microgrids', 'microgrid', 'optimizers', 'optimsation', 'optimisation', 'automate', 'optimizes', 'utility', 'optimizing', 'automation']",0.261201950089215
+Remote Sensing and Space Data Analysis,"['supervised', 'landforms', 'datasets', 'cropnet', 'watershed', 'classification', 'vegetation', 'dataset', 'lowlands', 'forests']",0.28862872918027294
+Robotics and Artificial Intelligence,"['automate', 'robot', 'robotized', 'ai', 'robotic', 'robotics', 'robotscript', 'automation', 'conceptnet', 'planning']",0.3905632842705071
+Self-Supervised Representation Learning,"['classifying', 'classification', 'supervised', 'classify', 'classifier', 'classifiers', 'classifications', 'datasets', 'labeled', 'dataset']",0.6378893744539151
+Sepsis Management and Treatment Optimization,"['healthgat', 'biomarker', 'biobank', 'datasets', 'classifier', 'classification', 'classifiers', 'dataset', 'diabetes', 'autoprognosis']",0.3262607952955759
+Signal Processing and Analysis in Complex Environments,"['epileptic', 'epilepsy', 'electroencephalogram', 'seizures', 'electroencephalograms', 'seizure', 'eegencoder', 'electroencephalografic', 'electroencephalographic', 'electroencephalography']",0.34436538797162614
+Solar Activity Prediction and Analysis,"['datasets', 'classification', 'classifiers', 'detections', 'nasa', 'features', 'supervised', 'dataset', 'classifier', 'spacecraft']",0.36343074177571627
+Speech and Audio Processing,"['speechcodes', 'utterances', 'speechlms', 'languagenet', 'speechlm', 'speechdat', 'speechx', 'corpus', 'audioset', 'utterance']",0.20406395994305798
+Tensor and Matrix Methods for Data Representation and Completion,"['algorithms', 'regularization', 'matrix', 'vectorized', 'matrices', 'submatrix', 'regularized', 'optimizers', 'normalization', 'optimizations']",0.3021877206440254
+Transportation Systems and Environmental Analytics,"['migratory', 'migration', 'urbanization', 'mobility', 'mobilitygpt', 'migrants', 'transportation', 'travel', 'moving', 'transport']",0.23866914592868774
+Wireless Technologies and Sensing Systems,"['decoding', 'decoders', 'decoder', 'multiplexing', 'channels', 'encoder', 'encode', 'channel', 'wavenet', 'telecommunication']",0.3925554844883178
